@@ -1,0 +1,3 @@
+广播只需开启两项自启
+OobeOnBootBroadcastReceiver
+HMSOnBootBroadcastReceiver

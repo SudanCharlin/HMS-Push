@@ -1,0 +1,6 @@
+HMSCoreService （核心服务）
+HMSInnerService （保证推送稳定）
+OpenDeviceIdentifierBindService （推送自启）
+OobeService （推送自启）
+新版hms core需开启以下服务保证不闪退
+HMSStubKitUpdateJobService

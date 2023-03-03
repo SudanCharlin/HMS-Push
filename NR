@@ -1,0 +1,6 @@
+内容提供者开启
+HMSFrameworkProvider
+KitProcessAgentCoreProvider
+ModuleQueryProvider
+HmsSettingSearchProvider
+UpdateSettingProvider
